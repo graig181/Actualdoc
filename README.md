@@ -197,4 +197,4 @@ This repository serves as the official landing page for ActualDoc. The software 
 **Get the most recent version of ActualDoc today!**
 
 ---
-**Last updated:** 2026-11-07 23:19:14 UTC
+**Last updated:** 2026-11-08 03:49:18 UTC
